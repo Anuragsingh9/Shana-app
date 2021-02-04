@@ -1,0 +1,26 @@
+
+v	php:S3923‰"[Remove this conditional structure or edit its code blocks so that they're not all the same.(šÆÕşÿÿÿÿ
+,	php:S2010"Replace "or" with "||".(ÖàÙ
+Ephp:S121†"0Add curly braces around the nested statement(s).(İ°“Ä
+4php:S125ƒ"Remove this commented out code.(’ÜçÁ
+Iphp:S1210"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121 "0Add curly braces around the nested statement(s).(²Ê
+€	php:S1488ñ"eImmediately return this expression instead of assigning it to the temporary variable "$presignedUrl".(ôŠµîúÿÿÿÿ
+H	php:S1481W"3Remove this unused "$preview_image" local variable.(Ô—»±
+?	php:S1481S"*Remove this unused "$path" local variable.(‚±Ñî
+Ephp:S121÷"0Add curly braces around the nested statement(s).(š…ø
+Jphp:S121ö"0Add curly braces around the nested statement(s).(’‹ò¨øÿÿÿÿ
+?	php:S1481Ÿ")Remove this unused "$url" local variable.(êşıÖ
+3php:S125J"Remove this commented out code.(†ïŞ¼
+r	php:S1488®"\Immediately return this expression instead of assigning it to the temporary variable "$url".(õ£Ä
+G	php:S1481‚",Remove this unused "$pieces" local variable.(€Œ£’şÿÿÿÿ
+9php:S125¿"Remove this commented out code.(òæÜ˜ûÿÿÿÿ
+z	php:S1488–"_Immediately return this expression instead of assigning it to the temporary variable "$return".(¾‚«Âûÿÿÿÿ
+@	php:S1481€"*Remove this unused "$file" local variable.(Õˆá
+J	php:S1481¼"/Remove this unused "$signature" local variable.(±Úƒçúÿÿÿÿ
+Iphp:S121)"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+x	php:S1488"^Immediately return this expression instead of assigning it to the temporary variable "$array".(ú„ş´ıÿÿÿÿ
+Dphp:S121."0Add curly braces around the nested statement(s).(”¬‰
+¬	php:S2681ø"•This statement will not be executed conditionally; only the first statement of this 2-statement block will be. The rest will execute unconditionally.(Ãª§ 
+Dphp:S121'"0Add curly braces around the nested statement(s).(”¬‰
+_	php:S1126_"EReplace this "if-then-else" statement by a single "return" statement.(ó‹»µÿÿÿÿÿ

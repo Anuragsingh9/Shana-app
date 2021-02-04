@@ -1,0 +1,242 @@
+
+Jphp:S121¡"0Add curly braces around the nested statement(s).(ƒ×©şÿÿÿÿ
+E	php:S1481¯"*Remove this unused "$book" local variable.(„ûÕöúÿÿÿÿ
+E	php:S1481õ"*Remove this unused "$book" local variable.(ƒÆÆûÿÿÿÿ
+4php:S125ß"Remove this commented out code.(³©ÅŸ
+Ephp:S121Ú"0Add curly braces around the nested statement(s).(ÔÍØ
+9php:S125Â"Remove this commented out code.(Öéİºÿÿÿÿÿ
+4php:S125Ğ"Remove this commented out code.(ıÎĞ§
+;	php:S1481æ"'Remove this unused "$t" local variable.(‰Ü
+9php:S125Ñ"Remove this commented out code.(±ËÚØùÿÿÿÿ
+9php:S125ã"Remove this commented out code.(È™€îıÿÿÿÿ
+Jphp:S121Œ	"0Add curly braces around the nested statement(s).(íüÓĞıÿÿÿÿ
+l	php:S1192â"QDefine a constant instead of duplicating this literal "uploads/subject/" 6 times.(Ï¾ïËÿÿÿÿÿ
+Ephp:S121í"0Add curly braces around the nested statement(s).(ÔÍØ
+Ephp:S121œ"0Add curly braces around the nested statement(s).(ÔÍØ
+Qphp:S131ß"7Add a "case default" clause to this "switch" statement.(×ˆ ôûÿÿÿÿ
+Jphp:S121¾
+"0Add curly braces around the nested statement(s).(‡õŒËûÿÿÿÿ
+9php:S125í"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+9php:S125˜"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+Jphp:S121€"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+o	php:S3776»"TRefactor this function to reduce its Cognitive Complexity from 91 to the 15 allowed.(Õİ†‘úÿÿÿÿ
+Jphp:S121ş"0Add curly braces around the nested statement(s).(±°Ôëüÿÿÿÿ
+I	php:S1481¬"3Remove this unused "$preview_image" local variable.(ÑÜöİ
+j	php:S1142»"OReduce the number of returns of this function 4, down to the maximum allowed 3.(Õİ†‘úÿÿÿÿ
+H	php:S1481ß"-Remove this unused "$chapter" local variable.(äƒñÕúÿÿÿÿ
+9php:S125·"Remove this commented out code.(ö»²Îıÿÿÿÿ
+9php:S125ˆ"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+9php:S125Ÿ"Remove this commented out code.(Öéİºÿÿÿÿÿ
+C	php:S1481Ì"-Remove this unused "$subject" local variable.(àê°
+B	php:S1481à
+"'Remove this unused "$t" local variable.(úÏªáÿÿÿÿÿ
+8php:S125_"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+4php:S125Æ"Remove this commented out code.(±ïÚ
+9php:S125¾"Remove this commented out code.(ÃãÓéøÿÿÿÿ
+Qphp:S131—"7Add a "case default" clause to this "switch" statement.(×ˆ ôûÿÿÿÿ
+C	php:S1481×"-Remove this unused "$subject" local variable.(àê°
+o	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(‘–¸Ùÿÿÿÿÿ
+e	php:S1192†"ODefine a constant instead of duplicating this literal "uploads/topic/" 6 times.(ÿÚÏË
+9php:S125"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+Ephp:S121Š"0Add curly braces around the nested statement(s).(ÔÍØ
+Jphp:S121Ê"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121ä"0Add curly braces around the nested statement(s).(ÔÍØ
+Jphp:S121å
+"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121Ş"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121€"0Add curly braces around the nested statement(s).(ÔÍØ
+4php:S125ß"Remove this commented out code.(ÃÕÿÒ
+Dphp:S121a"0Add curly braces around the nested statement(s).(ÔÍØ
+F	php:S1481à"+Remove this unused "$topic" local variable.(¦“Âäúÿÿÿÿ
+Jphp:S121ª
+"0Add curly braces around the nested statement(s).(Ï“ğ‘ùÿÿÿÿ
+9php:S125Ğ"Remove this commented out code.(…ïÇêûÿÿÿÿ
+Jphp:S121™"0Add curly braces around the nested statement(s).(®§Íôøÿÿÿÿ
+9php:S125"Remove this commented out code.(ÏÃ˜§ûÿÿÿÿ
+8php:S125K"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+9php:S125·"Remove this commented out code.(È™€îıÿÿÿÿ
+Jphp:S121	"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+9php:S125Œ"Remove this commented out code.(È™€îıÿÿÿÿ
+9php:S125ÿ"Remove this commented out code.(ÃãÓéøÿÿÿÿ
+Jphp:S121¬
+"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Jphp:S121£"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+S	php:S1854g"9Remove this useless assignment to local variable '$data'.(ÔÅà¿ıÿÿÿÿ
+9php:S125³"Remove this commented out code.(Öéİºÿÿÿÿÿ
+Jphp:S121ş
+"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+3php:S125Ö"Remove this commented out code.(ÁâÛ
+9php:S125¥
+"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+g	php:S1192ó"QDefine a constant instead of duplicating this literal "uploads/chapter/" 6 times.(„™‰ú
+4php:S125ã"Remove this commented out code.(Õ¹‚®
+Ephp:S121–"0Add curly braces around the nested statement(s).(ÔÍØ
+x	php:S1192½"]Define a constant instead of duplicating this literal "constant.msg.record_delete_1" 5 times.(òˆÊàüÿÿÿÿ
+s	php:S1192r"^Define a constant instead of duplicating this literal "constant.msg.record_insert_0" 11 times.(ò›§É
+9php:S125Ò"Remove this commented out code.(ÏÃ˜§ûÿÿÿÿ
+Dphp:S121M"0Add curly braces around the nested statement(s).(ÔÍØ
+Ephp:S121¡"0Add curly braces around the nested statement(s).(©î±£
+4php:S125ª"Remove this commented out code.(ÃÕÿÒ
+4php:S125Ñ"Remove this commented out code.(±ïÚ
+Ephp:S121Æ"0Add curly braces around the nested statement(s).(’çÚñ
+Ephp:S121÷"0Add curly braces around the nested statement(s).(ÔÍØ
+Ephp:S121ï"0Add curly braces around the nested statement(s).(ÔÍØ
+M	php:S1481"3Remove this unused "$preview_image" local variable.(í¸â«øÿÿÿÿ
+T	php:S1854“"9Remove this useless assignment to local variable '$data'.(ÔÅà¿ıÿÿÿÿ
+9php:S125±"Remove this commented out code.(ÚÓ¦‰ıÿÿÿÿ
+3php:S125â"Remove this commented out code.(å¸
+?	php:S1481µ	")Remove this unused "$key" local variable.(«È×ê
+Iphp:S121n"0Add curly braces around the nested statement(s).(†Ê€úÿÿÿÿ
+9php:S125õ	"Remove this commented out code.(Öéİºÿÿÿÿÿ
+4php:S125î"Remove this commented out code.(ÄÆ€
+Ephp:S121"0Add curly braces around the nested statement(s).(Ûèó
+D	php:S1656ä".Remove or correct this useless self-assignment(¥ŠşË
+W	php:S1854^"BRemove this useless assignment to local variable '$preview_image'.(òÏÿ£
+	php:S1448"lClass "AdminController" has 106 methods, which is greater than 20 authorized. Split it into smaller classes.(ÛŸ­¤
+Ephp:S121æ"0Add curly braces around the nested statement(s).(ÔÍØ
+9php:S125Ç"Remove this commented out code.(‚ÿö‚úÿÿÿÿ
+Ephp:S121Ø"0Add curly braces around the nested statement(s).(ÔÍØ
+9php:S125ş"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+\	php:S1192Æ"FDefine a constant instead of duplicating this literal "H:i:s" 8 times.(‘ÊÒÌ
+I	php:S1481‡"3Remove this unused "$preview_image" local variable.(Ÿñ
+F	php:S1481€"+Remove this unused "$topic" local variable.(É±©ğûÿÿÿÿ
+N	php:S1481ã"3Remove this unused "$preview_image" local variable.(í¸â«øÿÿÿÿ
+4php:S125é	"Remove this commented out code.(ò¤Ğ½
+s	php:S1192È"^Define a constant instead of duplicating this literal "constant.msg.record_restore_1" 5 times.( »–r
+Jphp:S121š"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+;	php:S1481±"'Remove this unused "$t" local variable.(‰Ü
+;	php:S1481ç"'Remove this unused "$t" local variable.(‰Ü
+Jphp:S121˜"0Add curly braces around the nested statement(s).( İ„êüÿÿÿÿ
+I	php:S1481¹"3Remove this unused "$preview_image" local variable.(Ÿñ
+G	php:S1481Æ",Remove this unused "$course" local variable.(ùÊšåıÿÿÿÿ
+Ephp:S121¾"0Add curly braces around the nested statement(s).(ÔÍØ
+Iphp:S121q"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+e	php:S1192I"PDefine a constant instead of duplicating this literal "uploads/course/" 6 times.(Ûšê¥
+\	php:S1854T"BRemove this useless assignment to local variable '$preview_image'.(¿‰Ôÿÿÿÿÿ
+9php:S125"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+Ephp:S121É"0Add curly braces around the nested statement(s).(ÔÍØ
+N	php:S1481Ù
+"3Remove this unused "$validatedData" local variable.(¡ş®ıÿÿÿÿ
+Ephp:S121’"0Add curly braces around the nested statement(s).(ÔÍØ
+Jphp:S121È"0Add curly braces around the nested statement(s).(¼ï²ëøÿÿÿÿ
+Dphp:S121W"0Add curly braces around the nested statement(s).(ÔÍØ
+4php:S125‘"Remove this commented out code.(³©ÅŸ
+o	php:S3776İ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ƒÂ•‹üÿÿÿÿ
+9php:S125Ÿ"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+Ephp:S121ø"0Add curly braces around the nested statement(s).(ÔÍØ
+Ephp:S121à"0Add curly braces around the nested statement(s).(ÔÍØ
+9php:S125È"Remove this commented out code.(ığ“çøÿÿÿÿ
+i	php:S1192Á"NDefine a constant instead of duplicating this literal "uploads/video" 4 times.(…ñµûùÿÿÿÿ
+Jphp:S121¦"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+;	php:S1481›"'Remove this unused "$t" local variable.(‰Ü
+F	php:S1481Õ"+Remove this unused "$topic" local variable.(¦“Âäúÿÿÿÿ
+Jphp:S121Ì"0Add curly braces around the nested statement(s).(˜ûâ³úÿÿÿÿ
+3php:S125Ä"Remove this commented out code.(¹™›7
+p	php:S1192©"[Define a constant instead of duplicating this literal "document/doc-document-list" 4 times.(ã¬î
+u	php:S1192™"_Define a constant instead of duplicating this literal "constant.msg.record_updated_1" 11 times.(ò²¼´
+Ephp:S121À"0Add curly braces around the nested statement(s).(ŠË®¦
+Jphp:S121µ"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121â"0Add curly braces around the nested statement(s).(ÔÍØ
+Jphp:S121È"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121Ï"0Add curly braces around the nested statement(s).(ÔÍØ
+9php:S125«"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+Ephp:S121ã"0Add curly braces around the nested statement(s).(ÔÍØ
+?	php:S1481Ñ")Remove this unused "$img" local variable.(¾Ò‰Û
+Jphp:S121"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+9php:S125«"Remove this commented out code.(İŒ“˜úÿÿÿÿ
+Ephp:S121ù"0Add curly braces around the nested statement(s).(ÔÍØ
+J	php:S1481Ì"/Remove this unused "$validator" local variable.(ºŸçÔûÿÿÿÿ
+k	php:S1192ø
+"PDefine a constant instead of duplicating this literal "uploads/slider/" 5 times.(ÈÉôÕüÿÿÿÿ
+D	php:S1656ê".Remove or correct this useless self-assignment(¥ŠşË
+G	php:S1481Ò	",Remove this unused "$mylist" local variable.(³ışüÿÿÿÿ
+Jphp:S121š"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+4php:S125·"Remove this commented out code.(±ïÚ
+9php:S125÷"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+=	php:S1481œ"'Remove this unused "$t" local variable.(£†¬Å
+v	php:S1192N"aDefine a constant instead of duplicating this literal "uploads/preview_image/dummy.png" 15 times.(¦Ç¤Ñ
+4php:S125ö"Remove this commented out code.(ÄÆ€
+9php:S125š"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+4php:S125ó	"Remove this commented out code.(„˜³
+9php:S125—"Remove this commented out code.(Ë¸Çóùÿÿÿÿ
+Ephp:S121¤"0Add curly braces around the nested statement(s).(ÅÄØÔ
+Jphp:S121ã
+"0Add curly braces around the nested statement(s).(ÚùäÓûÿÿÿÿ
+Ephp:S121Ü"0Add curly braces around the nested statement(s).(Ë¸Å¼
+j	php:S1192ä"ODefine a constant instead of duplicating this literal "uploads/audio/" 4 times.(ğÆÔ§øÿÿÿÿ
+b	php:S1192o"HDefine a constant instead of duplicating this literal "_token" 10 times.(ÁÚú’üÿÿÿÿ
+s	php:S1192ò
+"]Define a constant instead of duplicating this literal "required| mimes:jpeg,jpg,png" 4 times.(Ÿ« Ÿ
+Jphp:S121¼"0Add curly braces around the nested statement(s).(€Š¸½ûÿÿÿÿ
+I	php:S1481»
+"3Remove this unused "$preview_image" local variable.(ÑÜöİ
+9php:S125²"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+w	php:S1192p"]Define a constant instead of duplicating this literal "constant.msg.record_insert_1" 9 times.(ŸÛ²êüÿÿÿÿ
+z	php:S1192›"_Define a constant instead of duplicating this literal "constant.msg.record_updated_0" 10 times.(¨Æàıÿÿÿÿ
+=	php:S1481ø"'Remove this unused "$t" local variable.(Ï€ñ¥
+9php:S125Ğ"Remove this commented out code.(ÃãÓéøÿÿÿÿ
+Ephp:S121ü
+"0Add curly braces around the nested statement(s).(ÕÁ—½
+I	php:S1481ˆ	"3Remove this unused "$preview_image" local variable.(ÑÜöİ
+9php:S125¯"Remove this commented out code.(ş¤³ôıÿÿÿÿ
+D	php:S1125Š")Remove the literal "false" boolean value.(àîğùÿÿÿÿ
+9php:S125õ"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+4php:S125˜"Remove this commented out code.(³©ÅŸ
+D	php:S1656œ".Remove or correct this useless self-assignment(¥ŠşË
+4php:S125æ"Remove this commented out code.(³©ÅŸ
+Jphp:S121£"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+H	php:S1481ê"-Remove this unused "$chapter" local variable.(äƒñÕúÿÿÿÿ
+9php:S125İ
+"Remove this commented out code.(Ş¬õçşÿÿÿÿ
+j	php:S1142"OReduce the number of returns of this function 4, down to the maximum allowed 3.(‘–¸Ùÿÿÿÿÿ
+Jphp:S121Î"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121’"0Add curly braces around the nested statement(s).(ÔÍØ
+4php:S125¨"Remove this commented out code.(±ïÚ
+v	php:S3923­"[Remove this conditional structure or edit its code blocks so that they're not all the same.(–»£œıÿÿÿÿ
+Ephp:S121Ÿ"0Add curly braces around the nested statement(s).(Ëıü·
+I	php:S1481"3Remove this unused "$preview_image" local variable.(Ÿñ
+3php:S125‰"Remove this commented out code.(ÁâÛ
+9php:S125ä"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+Jphp:S121¡"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+9php:S125‡"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+>php:S108ñ")Either remove or fill this block of code.(ùÿ‚¼
+Jphp:S121À
+"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+e	php:S1192Ã"ODefine a constant instead of duplicating this literal "uploads/video/" 4 times.(îàôú
+3php:S125”"Remove this commented out code.(å¸
+Jphp:S121Â"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Ephp:S121¶"0Add curly braces around the nested statement(s).(Ñ¾³Ú
+Ephp:S121ƒ"0Add curly braces around the nested statement(s).(ÔÍØ
+Jphp:S121›"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+8php:S125U"Remove this commented out code.(èıÚ¯ÿÿÿÿÿ
+9php:S125Õ"Remove this commented out code.(çØÂşÿÿÿÿ
+D	php:S1656è".Remove or correct this useless self-assignment(¥ŠşË
+I	php:S1481ô"3Remove this unused "$preview_image" local variable.(Ÿñ
+Ephp:S121§
+"0Add curly braces around the nested statement(s).(ÔÍØ
+9php:S125Ù"Remove this commented out code.(ó‡Éüÿÿÿÿ
+?	php:S1481†")Remove this unused "$img" local variable.(¾Ò‰Û
+Jphp:S121³"0Add curly braces around the nested statement(s).(˜àúÿÿÿÿ
+9php:S125ö"Remove this commented out code.(òí’ûÿÿÿÿ
+¬	php:S2681ü"•This statement will not be executed conditionally; only the first statement of this 2-statement block will be. The rest will execute unconditionally.(Çÿ¤Ş
+m	php:S1192«"WDefine a constant instead of duplicating this literal "uploads/preview_image/" 6 times.(¹³„
+Jphp:S121¸"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+=	php:S1481ã"'Remove this unused "$t" local variable.(£†¬Å
+9php:S125Ø"Remove this commented out code.(Ì¨ì¿üÿÿÿÿ
+9php:S125Ê	"Remove this commented out code.(ºË‘ùÿÿÿÿ
+9php:S125Á"Remove this commented out code.(ığ“çøÿÿÿÿ
+?	php:S2053û"*Use the salt that is generated by default.(–ˆŒt
+9php:S125Ä"Remove this commented out code.(Ë¸Çóùÿÿÿÿ
+I	php:S1481£"3Remove this unused "$preview_image" local variable.(Ÿñ
+Jphp:S121¾"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+o	php:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÿ‰ıÈùÿÿÿÿ
+9php:S125Î"Remove this commented out code.(Öéİºÿÿÿÿÿ
+4php:S125¦"Remove this commented out code.(Ó½Ñë
+9php:S125œ
+"Remove this commented out code.(€ïĞ¬øÿÿÿÿ
+n	php:S1192Ö"XDefine a constant instead of duplicating this literal "src="http://shana.co.in" 3 times.(œ†·½
+G	php:S1481»",Remove this unused "$course" local variable.(ùÊšåıÿÿÿÿ
+Jphp:S121˜"0Add curly braces around the nested statement(s).(Í•ú»úÿÿÿÿ
+9php:S125×"Remove this commented out code.(°§œıÿÿÿÿ
+Ephp:S121‰"0Add curly braces around the nested statement(s).(ÔÍØ
+F	php:S1481õ"+Remove this unused "$topic" local variable.(É±©ğûÿÿÿÿ
